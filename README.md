@@ -19,7 +19,7 @@ You can download GSMxBNG from the following:
 
 • [Pling](https://www.pling.com/p/1943570/)
 
-• [Buy me a coffee](https://paypal.me/revGSM)
+• [PAYPAL](https://paypal.me/revGSM)
 
 ## Support ❤️
 If you liked any one of my projects then consider supporting me via following:
