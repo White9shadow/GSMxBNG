@@ -1,4 +1,10 @@
-[GSMxBNG]([https://example.com/images/openai-logo.png](https://images.pling.com/img/00/00/62/49/85/1943570/img-1393.png))
+<p align="center">
+<img src="[https://images.pling.com/img/00/00/62/49/85/1943570/img-1393.png])">
+</p>
+
+
+[![Thumbnail]([IMAGE_URL]())]([IMAGE_URL]())
+
 
 # GOSPEEDMODE BIONIC NEXT GENERATIO 🚀
 
