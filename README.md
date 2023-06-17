@@ -2,7 +2,8 @@
 <img src="[![image](https://github.com/White9shadow/GSMxBNG/assets/89025328/abe007b6-169d-4be4-8a36-bb22c2e46386)
 ])">
 </p>
-<p align="center"><b>GOSPEEDMODE BIONIC NEXT GENERATIO </b></p>
+
+<p align="center"><b>GOSPEEDMODE BIONIC NEXT GENERATION </b></p>
 
 
 
