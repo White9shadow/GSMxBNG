@@ -1,9 +1,11 @@
 <p align="center">
-<img src="[https://images.pling.com/img/00/00/62/49/85/1943570/img-1393.png])">
+<img src="[![image](https://github.com/White9shadow/GSMxBNG/assets/89025328/abe007b6-169d-4be4-8a36-bb22c2e46386)
+])">
 </p>
+<p align="center"><b>GOSPEEDMODE BIONIC NEXT GENERATIO </b></p>
 
 
-[![Thumbnail]([IMAGE_URL]())]([IMAGE_URL]())
+
 
 
 # GOSPEEDMODE BIONIC NEXT GENERATIO 🚀
