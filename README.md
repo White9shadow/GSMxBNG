@@ -6,6 +6,7 @@ After downloading the zip , open magisk manager app than flash and reboot
 ## Download 📲
 You can download GSMxBNG from the following:
 • [Pling](https://www.pling.com/p/1943570/)
+
 • [Buy me a coffee](https://paypal.me/revGSM)
 
 ## Support ❤️
