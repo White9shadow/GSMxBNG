@@ -1,10 +1,4 @@
-<p align="center">
-<img src="![gsmxbng magisk module](https://images.pling.com/img/00/00/62/49/85/1943570/img-1393.png)">
-</p>
-
-<p align="center"><b>GOSPEEDMODE BIONIC NEXT GENERATION.</b></p>
-
-
+![gsmxbng magisk module](https://images.pling.com/img/00/00/62/49/85/1943570/img-1393.png)
 
 
 
